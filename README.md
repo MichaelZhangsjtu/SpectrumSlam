@@ -1,7 +1,7 @@
 <h1 align="center">
 SpectrumSlam Dataset
 
-"Spectral Sensing: A Low-Cost and Accurate Solution for Indoor Robotic SLAM"
+"Spectral Sensing: An Accurate and Low-Cost Solution for Indoor Robotic SLAM"
 
 </h1>
 <br>
