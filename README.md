@@ -1,5 +1,5 @@
 # The dataset collected in the paper "Spectral Sensing: A Low-Cost and Accurate Solution for Indoor Robotic SLAM"
-## Each file including synchronized data streams from a spectral sensor, an odometry system, a depth camera (RGB-D), and a LiDAR sensor
+
 <p align="center">
   <a href="">
     <img src="motivation.png" alt="Logo" width="60%">
@@ -19,3 +19,4 @@ Comprises a corridor environment containing some furnishings, equipment, and dec
 A rest area containing furniture items including desks and chairs, sofas, bookshelves, green plants and decorative items. However, it is close to the window and thus is influenced by the outdoor light.
 ### Inter_Building_Trajectory_1 (1.69 GB) & Inter_Building_Trajectory_2 (758 MB) 
 Consist of long-distance paths connecting multiple buildings. Their higher fidelity to real-world industrial conditions makes them suitable for assessing the long-term stability and accuracy of the algorithm.
+## Each file including synchronized data streams from a spectral sensor, an odometry system, a depth camera (RGB-D), and a LiDAR sensor
